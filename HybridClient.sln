@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HybridClient", "HybridClient\HybridClient.csproj", "{27BAA4AA-2BD3-49E7-9671-D7B4C2149B19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27BAA4AA-2BD3-49E7-9671-D7B4C2149B19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27BAA4AA-2BD3-49E7-9671-D7B4C2149B19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27BAA4AA-2BD3-49E7-9671-D7B4C2149B19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27BAA4AA-2BD3-49E7-9671-D7B4C2149B19}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9302B1C1-78DA-44FD-9AAF-102E8E1C8C80}
+	EndGlobalSection
+EndGlobal
